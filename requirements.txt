@@ -1,2 +1,10 @@
 streamlit
 torch
+torchvision
+matplotlib
+prettytable
+thop
+torchsummary
+tqdm
+seaborn
+IPython
